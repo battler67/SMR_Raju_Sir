@@ -62,14 +62,14 @@ export function Hero() {
                 className="h-full w-full object-cover"
               />
             </div>
-            <div className="absolute -bottom-5 left-5 right-5 rounded-2xl border border-white/70 bg-white/90 p-4 shadow-lg backdrop-blur">
-              <p className="text-sm font-semibold text-slate-950">
+            <div className="absolute -bottom-5 left-5 right-5 rounded-2xl ">
+              {/* <p className="text-sm font-semibold text-slate-950">
                 {siteData.brand.tagline}
               </p>
               <p className="mt-1 text-sm text-slate-600">
-                Teaching quantum, image processing, and core CS with clarity
-                and structure.
-              </p>
+                Teaching quantum, image processing, and core CS with clarity and
+                structure.
+              </p> */}
             </div>
           </div>
         </div>

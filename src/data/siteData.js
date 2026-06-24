@@ -3,7 +3,7 @@ import heroImage from "../assets/image.png";
 export const siteData = {
   brand: {
     name: "SMR",
-    tagline: "Quantum, Image Processing, and Core CS learning studio",
+    // tagline: "Quantum, Image Processing, and Core CS learning studio",
     professorName: "Prof. U S N Raju",
     designation: "Associate Professor",
     department: "Department of Computer Science and Engineering",

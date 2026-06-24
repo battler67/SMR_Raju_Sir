@@ -15,13 +15,13 @@ export function Reviews() {
       <div className="section-shell">
         <div className="mb-8 max-w-2xl">
           <p className="section-kicker">Reviews</p>
-          <h2 className="mt-3 text-3xl font-semibold tracking-tight text-slate-950">
+          {/* <h2 className="mt-3 text-3xl font-semibold tracking-tight text-slate-950">
             Dummy reviews with marquee motion
-          </h2>
-          <p className="mt-3 text-slate-700">
+          </h2> */}
+          {/* <p className="mt-3 text-slate-700">
             The reviews repeat in a continuous strip so the section feels more
             alive without needing a heavy carousel.
-          </p>
+          </p> */}
         </div>
 
         <div className="space-y-5">
