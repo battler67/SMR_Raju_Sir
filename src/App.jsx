@@ -13,6 +13,7 @@ function App() {
       <div className="sticky top-0 z-30 h-16">
         <Navbar />
       </div>
+      <h1></h1>
       <Hero />
       <About />
       <Programs />
